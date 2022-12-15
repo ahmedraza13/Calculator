@@ -1,0 +1,54 @@
+
+
+
+.main{
+    border: 2px solid grey;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: fit-content;
+    margin: auto;
+    height: auto;
+    padding: 10px;
+    text-align: center;
+    margin-top: 100px;
+    background-color:rgba(69, 69, 69, 0.622) ;
+
+    
+
+}
+#C-btn{
+    background-color: rgb(181, 41, 41);
+}
+
+
+.result{
+    width: 100%;
+    border-radius: 5px;
+    padding: 15px 1px;
+    margin: 5px 0px;
+    background-color:rgba(219, 211, 211, 0.975);
+    font-size: larger;
+    outline: none;
+}
+button{
+    border: none;
+    background-color:rgba(219, 211, 211, 0.975);
+    font-size: 2rem;
+    border-radius: 10px;
+
+}
+
+button:hover{
+    background-color:rgba(149, 132, 132, 0.527);
+    cursor: pointer;
+    
+   
+}
+
+.btn{
+    border-radius: 50%;
+    width: 45px;
+    margin:5px 8px;
+    padding: 3px;
+}
+
